@@ -116,7 +116,7 @@ form textarea {
   min-height: 100px;
 }
 
-/* Botão bonito */
+/* Botão */
 form button {
   margin-top: 20px;
   padding: 12px;
@@ -133,7 +133,7 @@ form button:hover {
   background-color: #0091e5;
 }
 
-/* Mensagem de resposta do formulário */
+/* Resposta do Formulário */
 #resposta {
   margin-top: 15px;
   color: #27ae60;
